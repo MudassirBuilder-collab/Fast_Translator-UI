@@ -1,0 +1,4 @@
+# Environment variable files — never commit secrets
+.env
+Project/.env
+*.env
